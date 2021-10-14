@@ -60,4 +60,7 @@ for(let s= 1; i <= 20; i += 1){
     if(s % 2) 
     console.log(s) 
     }
-    
+
+for( let m=0; m <= 5 ; m +=1 ) {
+console.log("*");
+}
