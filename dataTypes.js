@@ -8,5 +8,7 @@ console.log(typeof (main))
 console.log(typeof (car))
 
 let x = null;
+console.log (x)
 let y = undefined;
+console.log(y)
 
