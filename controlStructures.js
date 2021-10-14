@@ -47,6 +47,18 @@ else if (num3>num1 && num3>num2)
     }
 
 
+let amount= 10;
+const amount = 10;
+if (amount < 0) {
+    console.log("Please enter a positive number")
+  } else 
+  { if(amount != 10 ) 
+    console.log(typeof amount)
+    console.log("Please enter a number")
+  } else {
+      console.log(10);
+}
+  
 
 
 
@@ -55,7 +67,8 @@ else if (num3>num1 && num3>num2)
 
 
 
-    
+
+
 
 let username="Shatha"
 let password="113355"
