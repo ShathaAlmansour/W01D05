@@ -58,6 +58,7 @@ if (amount < 0) {
   } else {
       console.log(10);
 }
+
   
 
 
