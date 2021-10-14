@@ -7,8 +7,6 @@ console.log(typeof (age))
 console.log(typeof (main))
 console.log(typeof (car))
 
-let sh= ""
-console.log("")
-
-console.log("")
+let x = null;
+let y = undefined;
 
