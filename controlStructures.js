@@ -45,6 +45,27 @@ else if (num3>num1 && num3>num2)
             console.log(num3 + ", " + num2 + ", " +num1);
         }
     }
+
+
+
+
+
+
+
+
+
+
+    
+
+let username="Shatha"
+let password="113355"
+if(username.length>6 && password.length>=8){
+    console.log("login successful")
+}
+else  {
+    console.log("login failed")
+}
+
         
 let i = 0;
 for (let i = 0; i <= 20; i++) {
@@ -62,8 +83,6 @@ for(let s= 1; i <= 20; i += 1){
     }
 
 
-
-
    {  let startRange=5;
     let endRange=8;
     let arr=[];
@@ -73,15 +92,9 @@ for(let s= 1; i <= 20; i += 1){
     }
     console.log(arr)
     
-    }
+    } }
 
-
-
-
-
-
-
- 
+ {
 for( let m=0; m <= 5 ; m +=1 ) {
 console.log("*");
-} 
+} }
