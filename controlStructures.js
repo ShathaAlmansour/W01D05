@@ -61,6 +61,27 @@ for(let s= 1; i <= 20; i += 1){
     console.log(s) 
     }
 
+
+
+
+   {  let startRange=5;
+    let endRange=8;
+    let arr=[];
+    {
+        for ( f=startRange ; startRange<=endRange ; f++ ) {
+            arr.push(f)
+    }
+    console.log(arr)
+    
+    }
+
+
+
+
+
+
+
+ 
 for( let m=0; m <= 5 ; m +=1 ) {
 console.log("*");
-}
+} 
